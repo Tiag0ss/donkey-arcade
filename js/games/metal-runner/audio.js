@@ -1,0 +1,18 @@
+export {
+  unlock,
+  isMuted,
+  toggleMute,
+  setMuted,
+  jump,
+  shoot,
+  enemyShot,
+  grenadeThrow,
+  explode,
+  hit,
+  kill,
+  block,
+  hurt,
+  pickup,
+  die,
+  start,
+} from '../../shared/audio.js';
